@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shreyas_mudholkar
+- 👀 I’m interested in quantum and advanced physics 
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on any quantum or ai proj.
+- 📫 How to reach me? : shreyasmudholkar12345@gmail.com / 
