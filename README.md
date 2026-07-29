@@ -10,6 +10,7 @@ Hey there, I’m Shreyas.<br>A curious mind navigating the worlds of Artificial 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shreyas-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Shreyas-cpu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shreyas-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
